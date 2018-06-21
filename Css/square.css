@@ -1,0 +1,64 @@
+
+.square-red {
+     height: 50px;
+     width: 50px;
+     background-color: red;
+ }
+.square-blue {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
+
+.square-black {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+
+.square-green {
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
+
+.square-yellow {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+}
+.font {
+    font-family: 'Tajawal', sans-serif;
+}
+.square-redfront {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-left: 2px dotted black;
+}
+.entryblock {
+    padding-top:15px ;
+    padding-left: 5px;
+    height: 50px;
+    width: 25px;
+    background-color: cadetblue;
+    margin-right: 10px;
+}
+.square-black-colorChange {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color: white;
+}
+.fontBig {
+    vertical-align: center;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 25px;
+}
+.font-colorwalk {
+    margin-right: 15px;
+    vertical-align: center;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+}

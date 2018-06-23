@@ -48,7 +48,7 @@ $longestConnection= new lowestCostWalk();
 </div>
 <hr>
 <div class="container d-flex justify-content-center">
-    <h4 class="font-colorwalk">Color Walking cost:  </h4>
+    <h4 class="font-colorwalk">Color walking height:  </h4>
     <div class="square-red fontBig">1</div>
     <div class="square-blue fontBig">2</div>
     <div class="square-black-colorChange fontBig">3</div>
@@ -59,9 +59,6 @@ $longestConnection= new lowestCostWalk();
 <hr>
 <div class="container d-flex justify-content-center">
 <div>
-    <div class="entryblock"><i class="fas fa-arrow-right"></i></div>
-    <div class="entryblock"><i class="fas fa-arrow-right"></i></div>
-    <div class="entryblock"><i class="fas fa-arrow-right"></i></div>
     <div class="entryblock"><i class="fas fa-arrow-right"></i></div>
 </div>
     <?php $longestConnection->longestConnected(4) ?>
